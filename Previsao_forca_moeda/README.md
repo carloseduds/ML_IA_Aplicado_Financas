@@ -31,9 +31,9 @@ Project Organization
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
     │                         generated with `pip freeze > requirements.txt`
     │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+    └── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
         └── figures        <- Generated graphics and figures to be used in reporting
 
 ------------
 
-<p><small>Project based on the <a target="_blank" href="https://nicercode.github.io/blog/2013-04-05-projects/">"Designing projects"</a>in Nice R Code</small></p>
+<p><small>Project based on the <a target="_blank" href="https://nicercode.github.io/blog/2013-04-05-projects/">"Designing projects"</a> in Nice R Code</small></p>
