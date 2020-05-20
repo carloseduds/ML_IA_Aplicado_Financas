@@ -15,8 +15,7 @@ de tempo e outro com o preço dos commodities no mesmo período de tempo.
 
 O resultado final, será a previsão da evolução do desempenho do Real em relação
 a outras moedas e isso será feito usando diferentes modelos preditivos e
-comparando a performance de previsão desses modelos, conforme gráfico
-abaixo.
+comparando a performance de previsão desses modelos.
 
 Este é um projeto modificado disponibilizado pela Data Science Academy. 
 
