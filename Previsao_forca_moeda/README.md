@@ -1,7 +1,6 @@
 Project R - Análise para Prever a Força do Real em Relação a Outras Moedas
 ================================================================================
 
-<<<<<<< HEAD
 Prever a força de uma moeda em relação ao mercado é uma tarefa realizada diariamente por empresas em todo o mundo. Projetos estratégicos, ligados principalmente a comércio exterior, necessitam desses dados como forma de prever cenários e com isso colaborar na decisão de investir ou não em determinado empreendimento ou mercado.
 
 Este projeto, construído em linguagem R, tem exatamente como objetivo, realizar previsões da força da moeda brasileira, o Real, em relação a outras moedas e em relação ao preço dos commodities (como petróleo, trigo, etc...).
